@@ -44,9 +44,11 @@ export default function Navbar() {
             >
               CONTACT
             </Link>
+            <Link to="/signin">
             <button className="bg-emerald-500 text-white px-6 py-2 rounded-md hover:bg-emerald-600">
               SignIn
             </button>
+            </Link>
           </div>
 
           <div className="flex items-center sm:hidden">
