@@ -1,0 +1,17 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/" },
+      { "src": "/about", "dest": "/" },
+      { "src": "/properties", "dest": "/" },
+      { "src": "/property/:id", "dest": "/" },
+      { "src": "/contact", "dest": "/" },
+      { "src": "/signin", "dest": "/" },
+      { "src": "/signup", "dest": "/" },
+      { "src": "/profile", "dest": "/" },
+      { "src": "/payment", "dest": "/" },
+      { "src": "/payment-success", "dest": "/" }
+      
+    ]
+  }
+
+        
